@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bobstermyang@gmail.com",
+    "longName": "Greet",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Greet",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "347442d5-e070-47e3-ad91-f8523fe047e2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
